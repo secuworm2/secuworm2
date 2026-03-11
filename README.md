@@ -1,28 +1,34 @@
-# secuworm
+# SECUWORM
 
-Information security consultant and pentester focused on **web application security**, **mobile app security**, **reverse engineering**, and **security tooling**.
+Information security consultant and pentester with a focus on **web application security**, **mobile security**, **reverse engineering**, and **security tooling**.
 
-I primarily work on **security consulting and penetration testing**, and I also build practical tools and helper utilities to solve problems encountered during real-world assessments.
+My primary work is in **security consulting and penetration testing**. I also build practical tools and utilities to solve problems encountered during real-world assessments.
 
-## What I do
+---
+
+## What I Do
 
 - **Web application penetration testing**
-- **Mobile app security testing** (Android / iOS)
+- **Mobile application security testing** (Android / iOS)
 - **Reverse engineering and dynamic analysis**
-- **Burp Suite / Frida / Fiddler-based workflow improvement**
-- **Security research and automation for assessments**
+- **Burp Suite, Frida, and Fiddler workflow enhancement**
+- **Security research and assessment automation**
+
+---
 
 ## Featured Repositories
 
 ### [Link-Radar](https://github.com/secuworm2/Link-Radar)
-A **Burp Suite extension** for extracting endpoint URLs from HTTP responses and helping organize attack surface during web security assessments.
+A **Burp Suite extension** for extracting endpoint URLs from HTTP responses and helping organize attack surfaces during web security assessments.
 
 ### [frida-android-helper2](https://github.com/secuworm2/frida-android-helper2)
-Helper project for **Frida-based Android analysis** and dynamic instrumentation workflows used in mobile application testing.
+A helper project for **Frida-based Android analysis** and dynamic instrumentation workflows used in mobile application testing.
+
+---
 
 ## Blog / Write-ups
 
-I write about topics encountered during security assessments, including:
+I write about topics encountered during hands-on security assessments, including:
 
 - Web pentesting workflows
 - Android / iOS analysis
@@ -30,20 +36,26 @@ I write about topics encountered during security assessments, including:
 - E2E bypass and traffic inspection
 - Practical security automation
 
-Blog: [SECUWORM](https://secuworm.tistory.com)
+**Blog:** [SECUWORM](https://secuworm.tistory.com)
+
+---
 
 ## Keywords
 
 **Security Consulting** · **Pentesting** · **Web Security** · **Mobile Security** · **Android Security** · **iOS Security** · **Burp Suite** · **Frida** · **Reverse Engineering**
 
+---
+
 ## Goals
 
 - Share practical security tools and research notes
 - Improve assessment workflows through automation
-- Publish useful write-ups from hands-on testing experience
+- Publish useful write-ups based on hands-on testing experience
 
-## Profile
+---
 
-GitHub: [github.com/secuworm2](https://github.com/secuworm2)
-Blog: [secuworm.tistory.com](https://secuworm.tistory.com)
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/%EC%B0%AC%ED%98%B8-%EC%9D%B4-641335153/?originalSubdomain=kr)
+## Links
+
+- **GitHub:** [secuworm2](https://github.com/secuworm2)
+- **Blog:** [secuworm.tistory.com](https://secuworm.tistory.com)
+- **LinkedIn:** [secuworm](https://www.linkedin.com/in/%EC%B0%AC%ED%98%B8-%EC%9D%B4-641335153/?originalSubdomain=kr)
